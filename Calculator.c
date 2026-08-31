@@ -11,7 +11,7 @@ int main() {
     printf("ENTER A NUMBER(0-99):");
     scanf("%d", &number1);
 
-    printf("ENTER ANOTHER NUMBER(1-99):");
+    printf("ENTER ANOTHER NUMBER(0-99):");
     scanf("%d", &number2);
 
     printf("ENTER THE OPERATOR FOR THE CALCULATION TO BE PERFORMED('+','-','*','/'):");
