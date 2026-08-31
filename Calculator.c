@@ -8,10 +8,10 @@ int main() {
     char operator;
     int result;
 
-    printf("ENTER A NUMBER:");
+    printf("ENTER A NUMBER(0-99):");
     scanf("%d", &number1);
 
-    printf("ENTER ANOTHER NUMBER:");
+    printf("ENTER ANOTHER NUMBER(1-99):");
     scanf("%d", &number2);
 
     printf("ENTER THE OPERATOR FOR THE CALCULATION TO BE PERFORMED('+','-','*','/'):");
